@@ -1,14 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono&display=swap');
+
 body {
   background-color: #0F0E0E;
   color: #DFD3C3;
+  font-family: "IBM Plex Mono", monospace;
+  margin-top: 24px;
+}
+
+h1 {
+  margin-top: 8px;
+  margin-bottom: 8px;
+}
+
+h3 {
+  margin-top: 8px;
+  margin-bottom: 8px;
+}
+
+h5 {
+  margin-top: 8px;
+  margin-bottom: 8px;
 }
 
 a {
   text-decoration: none;
-  color: #94a3b8;
+  color: #8AB6D6;
 }
 a:hover {
-  color: #64748b;
+  color: #789eb9;
 }
 
 dl:has(dt + dd) dt {
