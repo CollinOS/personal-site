@@ -1,0 +1,12 @@
+body {
+  background-color: #0F0E0E;
+  color: #DFD3C3;
+}
+
+/* INDEX PAGE */
+.index-container {
+  display: flex;
+  flex-direction: column;
+  max-width: 1028px;
+  margin: auto;
+}
